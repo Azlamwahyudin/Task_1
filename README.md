@@ -44,6 +44,11 @@ gambar di atas adalah contoh yang benar
 
 Statement yang ada di dalam tanda kurung [], {}, dan () tidak memerlukan tanda \.
 
+3. kutip
+
+   ![modul1-5](https://user-images.githubusercontent.com/93004934/224556213-a5acce98-c3b7-4c95-8c1d-1adf2daba51b.png)
+
+
 
 
    
