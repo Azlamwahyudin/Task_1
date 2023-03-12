@@ -25,10 +25,17 @@
 #MODUL 1
 
 1. BARIS DAN INDENTASI
+
    python tidak menggunakan tanda {} untuk menandai blok/grup kode. blok kode di python menggunakan tanda indentasi (spasi). jumlah sepasi untuk setiap baris yang ada      dalam satu blok kode harus sama.
    
 ![modul1-1](https://user-images.githubusercontent.com/93004934/224542734-f8bd3385-bb85-4b4d-b8cd-5c2e96fb31f7.png)
 
 gambar di atas adalah contoh yang benar
 
+2. pernyataan multibaris 
+   di python, akhir dari sebuah statement adalah karakter baris baru (newline). kita dapat membuat sebuah statement terdiri dari beberapa baris dengan menggunakan        tanda backslash (/)
+   
+![modul1-2](https://user-images.githubusercontent.com/93004934/224543101-cc3f3e21-4706-4a79-b445-aa1e1f131972.png)
+
+   
 
