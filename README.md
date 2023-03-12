@@ -22,4 +22,13 @@
 
 ![instalasi 4](https://user-images.githubusercontent.com/93004934/224541546-91c56188-3c0f-46ff-8bf8-d2335b46e061.png)
 
+#MODUL 1
+
+1. BARIS DAN INDENTASI
+   python tidak menggunakan tanda {} untuk menandai blok/grup kode. blok kode di python menggunakan tanda indentasi (spasi). jumlah sepasi untuk setiap baris yang ada      dalam satu blok kode harus sama.
+   
+![modul1-1](https://user-images.githubusercontent.com/93004934/224542734-f8bd3385-bb85-4b4d-b8cd-5c2e96fb31f7.png)
+
+gambar di atas adalah contoh yang benar
+
 
