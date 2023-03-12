@@ -37,5 +37,7 @@ gambar di atas adalah contoh yang benar
    
 ![modul1-2](https://user-images.githubusercontent.com/93004934/224543101-cc3f3e21-4706-4a79-b445-aa1e1f131972.png)
 
+gambar di atas adalah contoh yang benar
+
    
 
