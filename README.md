@@ -39,5 +39,10 @@ gambar di atas adalah contoh yang benar
 
 gambar di atas adalah contoh yang benar
 
+![modul1-4](https://user-images.githubusercontent.com/93004934/224544813-55dce33e-299f-4e87-b82e-5915765ebc
+Statement yang ada di dalam tanda kurung [], {}, dan () tidak memerlukan tanda \.
+
+
+
    
 
