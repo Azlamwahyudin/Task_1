@@ -18,3 +18,8 @@
 
 ![instalasi 3](https://user-images.githubusercontent.com/93004934/224474418-65d2301f-dd0e-4df6-aa96-173ac3be9a0f.png)
 
+4. dan kita coba untuk menampilkan teks
+
+![instalasi 4](https://user-images.githubusercontent.com/93004934/224541546-91c56188-3c0f-46ff-8bf8-d2335b46e061.png)
+
+
