@@ -49,6 +49,9 @@ Statement yang ada di dalam tanda kurung [], {}, dan () tidak memerlukan tanda \
    ![modul1-5](https://user-images.githubusercontent.com/93004934/224556213-a5acce98-c3b7-4c95-8c1d-1adf2daba51b.png)
 
 
+OPERATOR ARITMATIKA
+
+![modul1-6](https://user-images.githubusercontent.com/93004934/224676022-e3e8d827-cc59-4795-b1ec-ed642e22f695.png)
 
 
    
