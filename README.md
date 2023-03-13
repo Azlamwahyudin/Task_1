@@ -53,6 +53,16 @@ OPERATOR ARITMATIKA
 
 ![modul1-6](https://user-images.githubusercontent.com/93004934/224676022-e3e8d827-cc59-4795-b1ec-ed642e22f695.png)
 
+OPERATOR PERBANDINGAN
+
+![modul1-7](https://user-images.githubusercontent.com/93004934/224683286-8e5e349e-7c0a-4d14-8cf0-d1e8097f2cf2.png)
+
+OPERATOR PENUGASAN
+
+![modul1-8](https://user-images.githubusercontent.com/93004934/224683459-098b66ea-e2a6-4c19-b9a9-0befd9a37235.png)
+
+
+
 
    
 
