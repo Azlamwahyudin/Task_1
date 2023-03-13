@@ -61,6 +61,15 @@ OPERATOR PENUGASAN
 
 ![modul1-8](https://user-images.githubusercontent.com/93004934/224683459-098b66ea-e2a6-4c19-b9a9-0befd9a37235.png)
 
+OPERATIR LOGIKA
+
+![modul1-9](https://user-images.githubusercontent.com/93004934/224708772-aa8c85e6-ce48-4a5b-9e09-31e9248a2f8e.png)
+
+OPERATOR BITWISE
+
+![modul1-10](https://user-images.githubusercontent.com/93004934/224708982-47c0de21-805b-4b47-b297-41188d8c46d1.png)
+
+
 
 
 
