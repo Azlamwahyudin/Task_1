@@ -69,6 +69,16 @@ OPERATOR BITWISE
 
 ![modul1-10](https://user-images.githubusercontent.com/93004934/224708982-47c0de21-805b-4b47-b297-41188d8c46d1.png)
 
+OPERATOR IDENTITAS
+
+![modul1-11](https://user-images.githubusercontent.com/93004934/224714542-5d6461b7-8e58-4a10-9224-abf819f4dc45.png)
+
+OPERATOR KEANGGOTAAN
+
+![modul1-12](https://user-images.githubusercontent.com/93004934/224714787-d00191d8-2aae-40fb-a879-f8190c80369a.png)
+
+
+
 
 
 
